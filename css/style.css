@@ -1,0 +1,39 @@
+h1	{
+	line-height: 200px;
+}
+
+/*for profile picture*/
+
+.pic{
+	width: 150px;
+	height: 150px;
+	border-radius: 150px;
+	float:left;
+}
+
+.resume{
+	background-color: rgba(0,0,0,0.6);
+	width: 800px;
+	margin: auto auto;
+	padding: 50px 50px; 	
+}
+
+body{
+	background-image: url(http://upload.wikimedia.org/wikipedia/commons/e/ee/Night_skyline_of_Toronto_May_2009.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: #ffffff;
+	font-family: 'Roboto', sans-serif;
+}
+
+footer p{
+	text-align: center;
+}
+
+.heart{
+	color:#e53012;
+}
+
+.socialmedia{
+	float:left;
+}
